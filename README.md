@@ -1,5 +1,5 @@
 # Logistic_Regrssion-Lead_Scoring_Case_Study
-# This repository contains the logestic regression model that is used to get the hot leads to increase lead conversion rate and increase overall efficency by focusing on hot lead.
+# This repository contains the logestic regression model that is used to get the hot leads to increase lead conversion rate and increase overall efficiency by focusing on hot lead.
 
 # The Problem statement :
 An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses. 
@@ -10,6 +10,12 @@ X Education has appointed you to help them select the most promising leads, i.e.
 
 # The Repository contains :
 A well-commented Jupyter note with the logistic regression model, the conversion predictions and evaluation metrics.
+
+
 The word document filled with solutions to all the problems.
-The overall approach of the analysis in a presentation
+
+
+The overall approach of the analysis in a presentation.
+
+
 A brief summary report in 500 words explaining h the assignment and the learnings that was gathered.
